@@ -1,2 +1,7 @@
 {"success":true,"products":[
-    {"ID":"1","Name":"Itachi Ring","Harga":"Rp. 18.000","url":"https://images.tokopedia.net/img/cache/900/VqbcmM/2020/9/17/e9a00aa5-e825-494f-affa-bd43d5544909.jpg"}]}
+    {"ID":"1","Name":"Ruang Keluarga","Harga":"Rp. 30.000.000 - 45.000.000","url":"https://www.99.co/blog/indonesia/wp-content/uploads/2016/04/RuangMulti-1.jpg"},
+    {"ID":"2","Name":"Ruang Tamu","Harga":"Rp. 15.000.000 - 20.500.000","url":"https://images.homify.com/c_fill,f_auto,h_500,q_auto,w_1280/v1437318957/p/photo/image/753549/DSC00373.jpg"},
+    {"ID":"3","Name":"Kamar Tidur","Harga":"Rp. 10.000.000 - 15.000.000","url":"https://ahlidesaininterior.com/wp-content/uploads/2015/09/desain-interior-kamar-tidur-hotel-minimalis.jpg"},
+    {"ID":"4","Name":"Ruang Dapur","Harga":"Rp. 12.000.000 - 14.000.000","url":"https://i0.wp.com/dekoruma.blog/wp-content/uploads/2017/12/9.home-desgining.jpg?resize=1000%2C563&ssl=1"},
+    {"ID":"5","Name":"Kamar Mandi","Harga":"Rp. 7.000.000 - 10.000.000","url":"https://inspirasirumahku.com/wp-content/uploads/2019/12/Desain-Interior-Kamar-Mandi-Minimalis-Modern-Nuansa-Abu-dengan-Sentuhan-Rustic.jpg"}
+    ]}
